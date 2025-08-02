@@ -4,6 +4,9 @@ LEGEND
 + New feature
 * Improvement/modification or bug fix
 
+== Change Log v20.2 ==
+  * Improved Windows/Office Activator Launcher
+  * Build #1 CRC32 > c46c2076
 
 == Change Log v20.1 ==
   + Change Packer to UPX for Kaspersky-friendly
