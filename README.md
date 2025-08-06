@@ -6,12 +6,16 @@
 
 如有可能，请支持正版
 
+由于补丁更新频率，之后版本不提供 idm 的源文件，请直接在官网下载 [官网](https://www.internetdownloadmanager.com/download.html)
+
 ## en:
 This is the archived repository for the idm crack tool
 
 This tool was released by [Ali.Dbg](https://ckk.ir/) and is only reproduced here and archived by me.
 
 If possible, please support the original
+
+Due to the frequency of patch updates, the source files of idm are not provided in later versions, please download them directly from the official website [official website](https://www.internetdownloadmanager.com/download.html)
 
 ## useful
 

@@ -4,6 +4,17 @@ LEGEND
 + New feature
 * Improvement/modification or bug fix
 
+
+== Change Log v20.4 ==
+  * Update Patch Pattern
+  * Build #1 CRC32 > a3951176
+
+== Change Log v20.3 ==
+  * Update Patch Pattern
+  * Improve Patch Function
+  * Improve RemoveSign Function
+  * Build #1 CRC32 > 080278ad
+
 == Change Log v20.2 ==
   * Improved Windows/Office Activator Launcher
   * Build #1 CRC32 > c46c2076
